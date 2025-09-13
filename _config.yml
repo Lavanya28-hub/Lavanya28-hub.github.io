@@ -10,21 +10,29 @@
 ############################
 
 # Name of website
-title: My website
+title: "Lavanya Sahu"
+description: "Full Stack Web Developer | Lifelong Learner | Problem Solver"
+author: "Lavanya Sahu"
 
 # Your name to show in the footer
 author: Some Person
 
+baseurl: "" # leave empty
+url: "https://Lavanya28-hub.github.io
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects: "projects"
+  Contact: "contact"
+social-network-links:
+  email: "lavanyasahu225@gmail.com"
+  github: "Lavanya28-hub"
+  linkedin: "lavanya-sahu-076725259"
+remote_theme: daattali/beautiful-jekyll
+
 
 ################
 # --- Logo --- #
